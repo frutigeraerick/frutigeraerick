@@ -49,11 +49,3 @@
 </div>
 
 ###
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/20/08/5e/20085e3f4ce315d6dde52239298b0765.gif"  />
-</div>
-
-###
